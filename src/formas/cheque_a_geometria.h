@@ -1,0 +1,4 @@
+#ifndef  CHEQUE_A_GEOMETRIA_H
+#define  CHEQUE_A_GEOMETRIA_H
+
+#endif
